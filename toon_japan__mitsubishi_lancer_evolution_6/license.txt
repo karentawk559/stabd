@@ -1,0 +1,11 @@
+Model Information:
+* title:	TOON Japan : Mitsubishi Lancer Evolution 6
+* source:	https://sketchfab.com/3d-models/toon-japan-mitsubishi-lancer-evolution-6-98edd4ea10f644f9988f40c1d7df3225
+* author:	LePoint_BAT (https://sketchfab.com/LePointBAT)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TOON Japan : Mitsubishi Lancer Evolution 6" (https://sketchfab.com/3d-models/toon-japan-mitsubishi-lancer-evolution-6-98edd4ea10f644f9988f40c1d7df3225) by LePoint_BAT (https://sketchfab.com/LePointBAT) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
